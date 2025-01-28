@@ -28,7 +28,7 @@ All the files are required for a complete case assembly. The default repository 
 Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
  - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/Top-Cover%2001.stp">here</a>.  
  - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/Outer%2001%20-%20Custom%20Grips-a.stp">here</a>.  
- 
+ - Assembly Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/CAD/as-dp-2.stp">here</a>.  
 <BR>
 
 ## Considerations
